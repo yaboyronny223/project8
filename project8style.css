@@ -1,0 +1,53 @@
+table {
+     display: table;
+     border-collapse: collapse;
+     border-spacing: 2px;
+     border-color: green;
+     margin: auto;
+       }
+       
+ td {
+   border: 2px dotted blue;
+   border-style: dotted;
+     }
+     
+th {
+background-color: yellow;
+
+
+}
+
+.firstrow {
+font-family: "Verdana", Sans-serif;
+color: red;
+}
+
+
+.secondrow {
+font-family: "Verdana", Sans-serif;
+color: blue;
+}
+
+
+.header{
+border-style: solid;
+border-color: black;
+}
+
+
+body{
+text-align: center;
+
+}
+
+
+h1{
+color: green;
+font-family: "Verdana", Sans-serif;
+}
+
+
+.third{
+font-family: "Arial", Sans-serif;
+
+}
